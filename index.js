@@ -28,7 +28,6 @@ var funkyFunction = function() {
 var theFunk = funkyFunction();
 function theFunk(){
   if (theFunk === funkyFunction()){
-  let theFunk = 'FUNKY!';
-  console.log(theFunk);
+  return funkyFunction();
   }
 }
