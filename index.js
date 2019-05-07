@@ -28,6 +28,6 @@ var funkyFunction = function() {
 var theFunk = funkyFunction();
 if (theFunk){
   let theFunk = 'FUNKY!';
-  console.log(funkyFunction());
+  console.log('theFunk');
 }
 
