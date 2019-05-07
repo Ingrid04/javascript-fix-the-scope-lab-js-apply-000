@@ -30,3 +30,5 @@ function theFunk(){
   console.log(theFunk);
   console.log(funkyFunction());
 }
+
+theFunk();
